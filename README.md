@@ -1,6 +1,6 @@
 # data-app
 
-cette data-app consiste à créer une petite application de data visualization, basée sur des données Marocaines,en effet elle présente diverses visualisations d'un ensemble de données marocain sur le COVID-19. Voici une description détaillée de chaque section du tableau de bord :
+cette data-app consiste à créer une petite application de data visualization ,en effet elle présente diverses visualisations d'un ensemble de données marocain sur le COVID-19. Voici une description détaillée de chaque section du tableau de bord :
 
 ## Visualisations
 ![visualisations](E:\telechargement\Dashbord_Corona.jpeg)
