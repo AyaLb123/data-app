@@ -37,6 +37,11 @@ cette data-app consiste à créer une petite application de data visualization ,
 
 - Un menu déroulant permettant de sélectionner différentes régions pour voir l'évolution des cas spécifiquement dans ces régions.
 
+### Graphique de l'évolution des tests négatifs (en bas à droite)
+
+-Ce graphique montre l'évolution du nombre de tests négatifs effectués au fil du temps.
+-L'axe des x représente les dates et l'axe des y le nombre de tests négatifs.
+
 ## Utilisation
 Ce tableau de bord fournit une vue d'ensemble complète de l'état du COVID-19 au Maroc, permettant de suivre l'évolution des cas, les récupérations, et les décès, ainsi que de comparer la situation entre différentes régions du pays.
 
