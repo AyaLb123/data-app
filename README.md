@@ -3,7 +3,7 @@
 cette data-app consiste à créer une petite application de data visualization ,en effet elle présente diverses visualisations d'un ensemble de données marocain sur le COVID-19. Voici une description détaillée de chaque section du tableau de bord :
 
 ## Visualisations
-![Corona-dashbord](https://github.com/AyaLb123/data-app/assets/164968747/c886e43c-364e-40e5-8d07-c4851957c673)
+![Corona_Dashbord](https://github.com/AyaLb123/data-app/assets/164968747/1a700072-137a-4844-b15b-af7da87b8d71)
 
 ### Graphique des cas cumulés, des récupérations et des décès
 
