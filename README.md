@@ -3,7 +3,7 @@
 cette data-app consiste à créer une petite application de data visualization, basée sur des données Marocaines,en effet elle présente diverses visualisations d'un ensemble de données marocain sur le COVID-19. Voici une description détaillée de chaque section du tableau de bord :
 
 ## Visualisations
-![visualisations]((E:\telechargement\Dashbord_Corona.jpeg)
+![visualisations](E:\telechargement\Dashbord_Corona.jpeg)
 ### Graphique des cas cumulés, des récupérations et des décès
 
 - **Total Cases (Total des cas)** : Courbe bleue montrant l'augmentation des cas de COVID-19 au Maroc.
